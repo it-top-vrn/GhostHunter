@@ -1,7 +1,6 @@
 // GhostHunter.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-#include "pch.h"
 #include <iostream>
 #include <stdlib.h>
 #include <windows.h>
@@ -109,12 +108,6 @@ int main()
 	}
 	FirstChoice();
 	Room_Clear_Right();
-
-
-
-
-
-
 }
 
 void ConsolSize() {
