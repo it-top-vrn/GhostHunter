@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/itstep-vrn/GhostHunter/blob/master/LICENSE) [![CodeFactor](https://www.codefactor.io/repository/github/itstep-vrn/dungeon/badge)](https://www.codefactor.io/repository/github/itstep-vrn/dungeon) [![Gitter](https://badges.gitter.im/itstep-vrn/GhostHunter.svg)](https://gitter.im/itstep-vrn/GhostHunter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/itstep-vrn/GhostHunter/blob/master/LICENSE) [![CodeFactor](https://www.codefactor.io/repository/github/itstep-vrn/dungeon/badge)](https://www.codefactor.io/repository/github/itstep-vrn/dungeon) [![Gitter](https://badges.gitter.im/itstep-vrn/Dungeon.svg)](https://gitter.im/itstep-vrn/Dungeon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 [![github](https://github.githubassets.com/favicon.ico)](https://github.com/wingofnight)
 
 # Dungeon
