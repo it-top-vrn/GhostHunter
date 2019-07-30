@@ -12,7 +12,7 @@
 - **© Aristova Kristina, 2019.**
 - **© Компьютерная академия ШАГ. Воронеж, 2019**
 - **Версия: 0.2 Июль 2019)**
-- **- [<img src=https://github.com/wingofnight/TrashMashine/blob/master/trello-logo.png width="70" height="20"/>](https://trello.com/b/gnGnyvbp/gosthunter)**
+- ** [<img src=https://github.com/wingofnight/TrashMashine/blob/master/trello-logo.png width="70" height="20"/>](https://trello.com/b/gnGnyvbp/gosthunter)**
 ***
 ## СОДЕРЖАНИЕ
 
