@@ -4,7 +4,7 @@
 # Ghost Hunter
 Консольная РПГ - Dungeon. 
 
-![alt-текст](https://github.com/wingofnight/TrashMashine/blob/master/1111.png "Gost Hunter")
+![Gost Hunter](https://github.com/wingofnight/TrashMashine/blob/master/1111.png "Gost Hunter")
 
 ***
 - **Год выпуска: 2019**
