@@ -16,7 +16,7 @@
 - **Тип изданий: Open Source**
 - **Язык интерфейса: Русский**
 - **Версия: 0.2 Июль 2019)**
-- [<img src=https://github.com/wingofnight/TrashMashine/blob/master/trello-logo.png width="70" height="20"/>](https://trello.com/b/gnGnyvbp/gosthunter)
+- [<img src=https://github.com/itstep-vrn/GhostHunter/blob/master/trello-logo.png width="70" height="20"/>](https://trello.com/b/gnGnyvbp/gosthunter)
 ***
 ## СОДЕРЖАНИЕ
 - [Описание](#descript)
@@ -54,8 +54,8 @@ Gost Hunter - это текстовая РПГ, где вам придется �
 - В битвах с боссами вам нужно будет выбрать часть тела, куда вы будете атаковать. 
 Если это слабое место, вы получите бонус к урону.
 
-<img src=https://github.com/wingofnight/TrashMashine/blob/master/image%20(22).gif  width="620" height="420" />
-<img src=https://github.com/wingofnight/TrashMashine/blob/master/image.gif  width="620" height="420" />
+<img src=https://github.com/itstep-vrn/GhostHunter/blob/master/image.gif  width="620" height="420" />
+<img src=https://github.com/itstep-vrn/GhostHunter/blob/master/image%20(22).gif  width="620" height="420" />
 
 ***
 ### <a name="relis"> Воспроизведение:</a>
