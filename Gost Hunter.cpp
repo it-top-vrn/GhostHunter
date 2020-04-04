@@ -22,7 +22,6 @@ void GenerateItem();
 void Fight(int mobHeals, int mobDamage);
 string GiveKey(bool id);//принимает значение идендификации комнаты, (был ли раньше тут игрок) и на основе этого, либо выдает ключ, либо нет. Так же дополняет текст находкой.
 
-
 //комнаты
 void Chest();
 
@@ -98,8 +97,6 @@ int main()
 	srand(time(NULL));
 	ConsolSize();
 	
-	
-
 	Disclaimer();
 	StartMenu();
 	if (playerName == "satan") {
@@ -107,7 +104,6 @@ int main()
 		playerHels += 100;
 		playerMana += 100;
 		lvl += 5;
-
 	}
 	FirstChoice();
 	Room_Clear_Right();
