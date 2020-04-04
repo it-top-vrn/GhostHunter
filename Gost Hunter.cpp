@@ -107,18 +107,16 @@ int main()
 	}
 	FirstChoice();
 	Room_Clear_Right();
-
 }
 
 void ConsolSize() {
-
 	HANDLE out_handle = GetStdHandle(STD_OUTPUT_HANDLE);
 	COORD crd = { 120,50 };
 	SMALL_RECT src = { 0, 0, crd.X - 1, crd.Y - 1 };
 	SetConsoleWindowInfo(out_handle, true, &src);
 	SetConsoleScreenBufferSize(out_handle, crd);
-
 }
+
 void Disclaimer() {
 	BigText();
 	cout << endl << endl;
@@ -137,6 +135,7 @@ void Disclaimer() {
 	system("pause");
 	system("cls");
 }
+
 void TextWindow() {
 	cout << "\t";
 	for (int i = 0; i < 100; i++)
@@ -147,7 +146,6 @@ void TextWindow() {
 }
 
 void BigText() {
-
 	char bigStringGost[7][25] = {
 		{ '#','#','#','#',' ','#',' ',' ','#',' ','#','#','#','#',' ','#','#','#','#',' ','#','#','#','#','#' },
 		{ '#',' ',' ','#',' ','#',' ',' ','#',' ','#',' ',' ','#',' ','#',' ',' ','#',' ',' ',' ','#',' ',' ' },
@@ -186,9 +184,7 @@ void BigText() {
 		}
 		cout << endl << "\t\t\t\t\t";;
 	}
-
 }
-
 
 void StartMenu() {
 	BigText();
