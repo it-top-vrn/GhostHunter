@@ -1,13 +1,11 @@
-﻿
-
-#include "pch.h"
-#include <iostream>
+﻿#include <iostream>
 #include <stdlib.h>
 #include <windows.h>
 #include <string>
 #include <time.h>
 
 using namespace std;
+
 void FirstChoice();//Первый выбор игрока, который отправляет в функцию навигации, либо завершает игру.
 void Navigation(int setNavigation);
 void ConsolSize(); // Утснаваливает размер окна консоли. (подглядел в гугле, но пришлось повозится)
@@ -150,7 +148,6 @@ void TextWindow() {
 		cout << '#';
 	}
 	cout << endl;
-
 }
 
 void BigText() {
